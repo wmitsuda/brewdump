@@ -40,7 +40,7 @@ brew "helm"
 brew "htop"
 brew "httpie"
 brew "hub"
-brew "inetutils", link: false
+brew "inetutils"
 brew "ipfs"
 brew "jenv"
 brew "jq"
@@ -56,13 +56,11 @@ brew "nginx"
 brew "nmap"
 brew "nvm"
 brew "openjdk"
-brew "postgresql"
 brew "prometheus"
 brew "protobuf"
 brew "redis", restart_service: true
 brew "siege"
 brew "tcptraceroute"
-brew "telnet"
 brew "tig"
 brew "tor"
 brew "tree"
@@ -96,14 +94,12 @@ cask "font-consolas-for-powerline"
 cask "font-fira-code"
 cask "font-meslo-for-powerline"
 cask "font-source-code-pro-for-powerline"
-cask "ganache"
 cask "gitter"
 cask "google-backup-and-sync"
 cask "google-chrome"
 cask "google-cloud-sdk"
 cask "inkscape"
 cask "iterm2"
-cask "itsycal"
 cask "java"
 cask "karabiner-elements"
 cask "keybase"
@@ -118,7 +114,6 @@ cask "openemu"
 cask "osxfuse"
 cask "pomotodo"
 cask "popcorn-time"
-cask "postgres"
 cask "postman"
 cask "remember-the-milk"
 cask "slack"
@@ -132,12 +127,10 @@ cask "visual-studio-code"
 cask "xquartz"
 cask "zoom"
 cask "zoomus"
-mas "GarageBand", id: 682658836
 mas "iMovie", id: 408981434
 mas "Keynote", id: 409183694
 mas "Numbers", id: 409203825
 mas "Pages", id: 409201541
 mas "Teleprompter", id: 417605357
-mas "Twitter", id: 1482454543
 mas "Typist", id: 415166115
 mas "Xcode", id: 497799835
