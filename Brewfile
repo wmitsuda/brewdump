@@ -12,6 +12,7 @@ tap "radicle/cli", "https://pine.radicle.garden/radicle-cli-homebrew.git"
 tap "sammy007/cryptonight"
 tap "spring-io/tap"
 brew "amazon-ecs-cli"
+brew "openssl@1.1"
 brew "python@3.10"
 brew "ansible"
 brew "autoconf"
@@ -19,10 +20,8 @@ brew "autojump"
 brew "awscli"
 brew "bandwhich"
 brew "bazelisk"
-brew "bitcoin"
 brew "brew-cask-completion"
 brew "bwm-ng"
-brew "python@3.9"
 brew "cfssl"
 brew "circleci"
 brew "cmake"
@@ -158,7 +157,6 @@ cask "xquartz"
 cask "zoom"
 mas "exifpurge", id: 784466108
 mas "iMovie", id: 408981434
-mas "iPhoto", id: 408981381
 mas "Keynote", id: 409183694
 mas "Numbers", id: 409203825
 mas "Pages", id: 409201541
